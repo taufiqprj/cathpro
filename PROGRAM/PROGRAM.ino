@@ -1,9 +1,9 @@
 const int selectorPin1 = 14;
-const int selectorPin2 = 15;
+const int selectorPin2 = 12;
 const int selectorPin3 = 16;
-const int pwmOutputPin = 17;
+const int pwmOutputPin = 5;
 const int buttonPin = 4;
-const int potPin = A1;
+const int potPin = A0;
 const int lm35Pin = A2;
 
 int selectorState = 0;
